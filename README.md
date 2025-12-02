@@ -4,7 +4,6 @@
 
 An interactive and ergonomic Power BI dashboard that transforms raw HR data (from Excel) into actionable strategic insights, optimizing talent management, retention, and organizational performance.
 
-![Strategic Insights Page Preview](./Accueil RH.png)
 
 ## Project Overview
 
@@ -20,7 +19,7 @@ The purpose of this project is to convert raw HR data into a visual tool that id
 ## Dashboard Pages
 
 ### 1. Strategic Insights  
-![Strategic Insights Page](./screenshots/insights_strategiques.png)  
+![Strategic Insights Page](./Accueil%20RH.png)
 This page offers an executive overview of HR dynamics:  
 - Turnover rates by age and hiring cohorts (curves and trends)  
 - Employee performance with rankings  
@@ -31,7 +30,7 @@ This page offers an executive overview of HR dynamics:
 Ideal for strategic reviews and quick trend identification.
 
 ### 2. Key Data & Demographics  
-![Key Data Page](./screenshots/donnees_cle.png)  
+![Key Data Page](./Donn%C3%A9es%20Cl%C3%A9s.png)
 An in-depth demographic analysis of the workforce:  
 - Distribution by gender, city, education level, and age  
 - Age pyramid by gender to visualize diversity  

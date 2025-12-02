@@ -30,7 +30,7 @@ This page offers an executive overview of HR dynamics:
 Ideal for strategic reviews and quick trend identification.
 
 ### 2. Key Data & Demographics  
-![Key Data Page](./Donn%C3%A9es%20Cl%C3%A9s.png)
+![Key Data Page](./data.png)
 An in-depth demographic analysis of the workforce:  
 - Distribution by gender, city, education level, and age  
 - Age pyramid by gender to visualize diversity  
